@@ -18,7 +18,7 @@ git clone https://github.com/ZxyLinkstart/CL-STR.git
 2. Create conda environment
 ```
 conda env create -f environment.yml
-conda activate AG3D
+conda activate clstr
 ```
 3.  Download the Meta Animation
 
