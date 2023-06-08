@@ -1,5 +1,5 @@
 # Novel Spatio-temporal Representation Based on Contrastive Learning for Coherent Human Animation Production
-Code and Dataset forNovel Spatio-temporal Representation Based on Contrastive Learning for Coherent Human Animation Production
+Code and Dataset for Novel Spatio-temporal Representation Based on Contrastive Learning for Coherent Human Animation Production
 
 <div align="center">
   <img src="teaser/cl_str_pipeline.jpg" width="900px" />
