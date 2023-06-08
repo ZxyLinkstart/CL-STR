@@ -20,5 +20,6 @@ git clone https://github.com/ZxyLinkstart/CL-STR.git
 conda env create -f environment.yml
 conda activate clstr
 ```
-3.  Download the Meta Animation
+3.  Download the Meta Animation (coming soon)
 
+## We will upload the pre-trained models and dataset.
