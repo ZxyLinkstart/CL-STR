@@ -2,7 +2,7 @@
 Code and Dataset forNovel Spatio-temporal Representation Based on Contrastive Learning for Coherent Human Animation Production
 
 <div align="center">
-  <img src="fig/overview.png" width="900px" />
+  <img src="teaser/cl_str_pipeline.png" width="900px" />
 </div>
 
 
