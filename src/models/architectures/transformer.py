@@ -221,8 +221,7 @@ class Encoder_TRANSFORMER(nn.Module):
     #     return torch.nn.Sequential(
     #         torch.nn.Linear(256,50),torch.nn.Tanh(),torch.nn.Linear(50,20)
     # )
-    
-
+   
     def forward(self, batch):
         x, y, mask = batch["x"], batch["y"], batch["mask"]
         bs, njoints, nfeats, nframes = x.shape
